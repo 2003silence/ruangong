@@ -4,6 +4,7 @@ Created on Wed Sep 18 21:35:57 2024
 
 @author: 86132
 """
+#以下代码均为与aigc交互生成
 
 import pygame
 import random
